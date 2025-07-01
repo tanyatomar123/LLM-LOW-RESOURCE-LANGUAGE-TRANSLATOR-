@@ -1,0 +1,7 @@
+transformers
+sentencepiece
+datasets
+accelerate
+gradio
+sacrebleu
+langdetect
